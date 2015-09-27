@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="30_11_2014_Tretí deň">
+  <slide_groups>
+  <slide_group name="Nikto ni je vačší než ty" type="song" presentation="" path="nikto ni je vačší než ty/"/>
+  <slide_group name="Sláva Božích mien" type="song" presentation="" path="nikto ni je vačší než ty/"/>
+  <slide_group name="Světlo" type="song" presentation="" path=""/>
+  <slide_group name="Hosana SK" type="song" presentation="" path=""/>
+  <slide_group name="Agnus Dei tr" type="song" presentation="" path=""/>
+  <slide_group name="Overcome" type="song" presentation="" path=""/>
+  <slide_group name="Agnus Dei SK" type="song" presentation="" path="" transition="0"/>
+  <slide_group type="scripture" name="2 Korintským 9:9|CZ_Nbk21" print="true">
+  <title>2 Korintským 9:9</title>
+  <slides>
+  <slide>
+  <body>9  Je přece psáno: "Rozdělil štědře, chudým dal, jeho spravedlnost navždy zůstává."</body></slide></slides>
+  <subtitle>CZ_Nbk21</subtitle>
+  <notes/>
+</slide_group>
+  <slide_group type="scripture" name="2 Korintským 9:10|CZ_Nbk21" print="true">
+  <title>2 Korintským 9:10</title>
+  <slides>
+  <slide>
+  <body>10  Ten, který dává zrno k rozsévání i chléb k jídlu, opatří a rozmnoží vaši setbu a dá dozrát plodům vaší spravedlnosti.</body></slide></slides>
+  <subtitle>CZ_Nbk21</subtitle>
+  <notes/>
+</slide_group>
+  <slide_group name="veta" type="song" presentation="" path=""/>
+  <slide_group name="Nech prúdi k nám" type="song" presentation="" path=""/>
+  <slide_group name="Nas Boh SK" type="song" presentation="" path=""/>
+</slide_groups></set>
