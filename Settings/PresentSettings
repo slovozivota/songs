@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <present_settings version="1.0">
-  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="false" blank_uses_next="false" exit_prompt="false" transition_frames="5" transition_time="100" mouse_cursor="arrow"/>
+  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true" blank_uses_next="false" exit_prompt="false" transition_frames="5" transition_time="100" mouse_cursor="arrow"/>
   <default_style index="default_style">
   <title enabled="false" valign="bottom" align="center" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="16" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
   <subtitle enabled="false" valign="bottom" align="center" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="8" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
@@ -21,10 +21,9 @@
 </scripture_style>
   <monitors control="1" present="2" force_4_3_preview="false"/>
   <alert align="center" bold="true" border="false" border_color="#000000" color="#FFFFFF" fill="true" fill_color="#FF0000" font="Helvetica" italic="false" shadow="false" shadow_color="#000000" size="40" underline="false" valign="top"/>
-  <logo/>
-  <logo_mask/>
+  <logo></logo>
+  <logo_mask></logo_mask>
   <song_style_preferred>true</song_style_preferred>
   <presentation_mode code="2"/>
   <snapshot enable="false" export_preview="false" export_live_insertions="true" export_metadata="true">
-  <filename/>
-</snapshot></present_settings>
+  <filename></filename></snapshot></present_settings>

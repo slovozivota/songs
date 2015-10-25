@@ -27,7 +27,7 @@
  Přichází Pán na zádech oblaků,
  jak slunce zářící, zvuk polnic zní
 [C2]
- Zvyš svůj hlas, je léto milosti
+ Zvyš svůj hlas, je léto milosti,
  ze Siónu k nám kráčí spasení
 [V4]
  Toto je čas suchých kostí, mocí Boží vzbuzených
@@ -38,4 +38,7 @@
 [V7]
  A my, dělníci na královských lánech, vcházíme dnes do polí
 [B]
- Není pána nad Ježíše</lyrics></song>
+ Není pána nad Ježíše</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

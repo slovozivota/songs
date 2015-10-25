@@ -357,8 +357,8 @@
   <Description>5</Description>
   <FileName>/Nech Bozie zlutovanie</FileName>
   <title>Nech Bozie zlutovanie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry40>
   <Entry41>
   <Date>2015-09-27</Date>
@@ -366,8 +366,8 @@
   <Description>5</Description>
   <FileName>/Oslav Ho nebe</FileName>
   <title>Oslav Ho nebe</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry41>
   <Entry42>
   <Date>2015-09-27</Date>
@@ -375,8 +375,8 @@
   <Description>5</Description>
   <FileName>/Jsme koupeni</FileName>
   <title>Jsme koupeni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry42>
   <Entry43>
   <Date>2015-09-27</Date>
@@ -384,8 +384,8 @@
   <Description>5</Description>
   <FileName>/Hossana</FileName>
   <title>Hossana</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry43>
   <Entry44>
   <Date>2015-09-27</Date>
@@ -393,8 +393,8 @@
   <Description>5</Description>
   <FileName>/Immanuel</FileName>
   <title>Immanuel</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry44>
   <Entry45>
   <Date>2015-09-27</Date>
@@ -402,6 +402,780 @@
   <Description>5</Description>
   <FileName>Songs/tom</FileName>
   <title>tom</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry45>
+  <Entry46>
+  <Date>2015-10-04</Date>
+  <Time>09:12:13</Time>
+  <Description>5</Description>
+  <FileName>/Přicházím Tě chválit</FileName>
+  <title>Přicházím Tě chválit</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry46>
+  <Entry47>
+  <Date>2015-10-04</Date>
+  <Time>09:21:19</Time>
+  <Description>1</Description>
+  <FileName>( Hlavní )/Ježíš je jméno</FileName>
+  <title>Ježíš je jméno</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry47>
+  <Entry48>
+  <Date>2015-10-04</Date>
+  <Time>09:22:29</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Ježíš je jméno</FileName>
+  <title>Ježíš je jméno</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry48>
+  <Entry49>
+  <Date>2015-10-04</Date>
+  <Time>09:23:52</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Ježíš je jméno</FileName>
+  <title>Ježíš je jméno</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry49>
+  <Entry50>
+  <Date>2015-10-04</Date>
+  <Time>09:24:16</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Ježíš je jméno</FileName>
+  <title>Ježíš je jméno</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry50>
+  <Entry51>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry51>
+  <Entry52>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/Ježíš je jméno</FileName>
+  <title>Ježíš je jméno</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry52>
+  <Entry53>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/Svatý, svatý</FileName>
+  <title>Svatý, svatý</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry53>
+  <Entry54>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/K Tobě Pane</FileName>
+  <title>K Tobě Pane</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry54>
+  <Entry55>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/Haleluja, vládne král</FileName>
+  <title>Haleluja, vládne král</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry55>
+  <Entry56>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/Jsi Bůh, jsi náš Pán</FileName>
+  <title>Jsi Bůh, jsi náš Pán</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry56>
+  <Entry57>
+  <Date>2015-10-04</Date>
+  <Time>09:26:17</Time>
+  <Description>5</Description>
+  <FileName>/Světlo</FileName>
+  <title>Světlo</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry57>
+  <Entry58>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry58>
+  <Entry59>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/Ježíš je jméno</FileName>
+  <title>Ježíš je jméno</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry59>
+  <Entry60>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/Svatý, svatý</FileName>
+  <title>Svatý, svatý</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry60>
+  <Entry61>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/K Tobě Pane</FileName>
+  <title>K Tobě Pane</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry61>
+  <Entry62>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/Haleluja, vládne král</FileName>
+  <title>Haleluja, vládne král</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry62>
+  <Entry63>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/Jsi Bůh, jsi náš Pán</FileName>
+  <title>Jsi Bůh, jsi náš Pán</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry63>
+  <Entry64>
+  <Date>2015-10-04</Date>
+  <Time>10:01:31</Time>
+  <Description>5</Description>
+  <FileName>/Světlo</FileName>
+  <title>Světlo</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry64>
+  <Entry65>
+  <Date>2015-10-08</Date>
+  <Time>17:47:08</Time>
+  <Description>5</Description>
+  <FileName>/Bůh je síla má</FileName>
+  <title>Bůh je síla má</title>
+  <author>Pavel Hrabě</author>
+  <ccli>31.10.09</ccli>
+  <HasChords>false</HasChords></Entry65>
+  <Entry66>
+  <Date>2015-10-11</Date>
+  <Time>09:13:55</Time>
+  <Description>1</Description>
+  <FileName>( Hlavní )/Navěky a navždy</FileName>
+  <title>Navěky a navždy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry66>
+  <Entry67>
+  <Date>2015-10-11</Date>
+  <Time>09:18:25</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Navěky a navždy</FileName>
+  <title>Navěky a navždy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry67>
+  <Entry68>
+  <Date>2015-10-11</Date>
+  <Time>09:19:17</Time>
+  <Description>1</Description>
+  <FileName>( Hlavní )/Moc, čest i sláva</FileName>
+  <title>Moc, čest i sláva</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry68>
+  <Entry69>
+  <Date>2015-10-11</Date>
+  <Time>09:23:18</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Moc, čest i sláva</FileName>
+  <title>Moc, čest i sláva</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry69>
+  <Entry70>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Zpívej s radostí</FileName>
+  <title>Zpívej s radostí</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry70>
+  <Entry71>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Ty si Pánom mojich dní</FileName>
+  <title>Ty si Pánom mojich dní</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry71>
+  <Entry72>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Přicházím Tě chválit</FileName>
+  <title>Přicházím Tě chválit</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry72>
+  <Entry73>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Jsi Bůh, jsi náš Pán</FileName>
+  <title>Jsi Bůh, jsi náš Pán</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry73>
+  <Entry74>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Já chválím</FileName>
+  <title>Já chválím </title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry74>
+  <Entry75>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Slávný Boh</FileName>
+  <title>Slávný Boh</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry75>
+  <Entry76>
+  <Date>2015-10-11</Date>
+  <Time>09:38:53</Time>
+  <Description>5</Description>
+  <FileName>/Navěky a navždy</FileName>
+  <title>Navěky a navždy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry76>
+  <Entry77>
+  <Date>2015-10-11</Date>
+  <Time>09:42:21</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Moc, čest i sláva</FileName>
+  <title>Moc, čest i sláva</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry77>
+  <Entry78>
+  <Date>2015-10-11</Date>
+  <Time>09:45:12</Time>
+  <Description>5</Description>
+  <FileName>/Moc, čest i sláva</FileName>
+  <title>Moc, čest i sláva</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry78>
+  <Entry79>
+  <Date>2015-10-11</Date>
+  <Time>09:45:12</Time>
+  <Description>5</Description>
+  <FileName>/Přicházím Tě chválit</FileName>
+  <title>Přicházím Tě chválit</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry79>
+  <Entry80>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Moc, čest i sláva</FileName>
+  <title>Moc, čest i sláva</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry80>
+  <Entry81>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Zpívej s radostí</FileName>
+  <title>Zpívej s radostí</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry81>
+  <Entry82>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Ty si Pánom mojich dní</FileName>
+  <title>Ty si Pánom mojich dní</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry82>
+  <Entry83>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Přicházím Tě chválit</FileName>
+  <title>Přicházím Tě chválit</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry83>
+  <Entry84>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Jsi Bůh, jsi náš Pán</FileName>
+  <title>Jsi Bůh, jsi náš Pán</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry84>
+  <Entry85>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Navěky a navždy</FileName>
+  <title>Navěky a navždy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry85>
+  <Entry86>
+  <Date>2015-10-11</Date>
+  <Time>10:01:59</Time>
+  <Description>5</Description>
+  <FileName>/Slávný Boh</FileName>
+  <title>Slávný Boh</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry86>
+  <Entry87>
+  <Date>2015-10-18</Date>
+  <Time>09:02:39</Time>
+  <Description>1</Description>
+  <FileName>( Hlavní )/Já v ježíše věřím</FileName>
+  <title>Já v ježíše věřím</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry87>
+  <Entry88>
+  <Date>2015-10-18</Date>
+  <Time>09:05:53</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Já v ježíše věřím</FileName>
+  <title>Já v ježíše věřím</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry88>
+  <Entry89>
+  <Date>2015-10-18</Date>
+  <Time>09:06:12</Time>
+  <Description>1</Description>
+  <FileName>( Hlavní )/Ježíši jsi spása duše mé</FileName>
+  <title>Ježíši jsi spása duše mé</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry89>
+  <Entry90>
+  <Date>2015-10-18</Date>
+  <Time>09:09:00</Time>
+  <Description>3</Description>
+  <FileName>( Hlavní )/Ježíši jsi spása duše mé</FileName>
+  <title>Ježíši jsi spása duše mé</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry90>
+  <Entry91>
+  <Date>2015-10-18</Date>
+  <Time>09:09:35</Time>
+  <Description>5</Description>
+  <FileName>/Slávný Boh</FileName>
+  <title>Slávný Boh</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry91>
+  <Entry92>
+  <Date>2015-10-18</Date>
+  <Time>09:09:35</Time>
+  <Description>5</Description>
+  <FileName>/Já v ježíše věřím</FileName>
+  <title>Já v ježíše věřím</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry92>
+  <Entry93>
+  <Date>2015-10-18</Date>
+  <Time>09:36:01</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry93>
+  <Entry94>
+  <Date>2015-10-18</Date>
+  <Time>09:36:01</Time>
+  <Description>5</Description>
+  <FileName>/Slávný Boh</FileName>
+  <title>Slávný Boh</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry94>
+  <Entry95>
+  <Date>2015-10-18</Date>
+  <Time>09:36:01</Time>
+  <Description>5</Description>
+  <FileName>/Ježíši jsi spása duše mé</FileName>
+  <title>Ježíši jsi spása duše mé</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry95>
+  <Entry96>
+  <Date>2015-10-18</Date>
+  <Time>09:36:01</Time>
+  <Description>5</Description>
+  <FileName>/Len Tebe</FileName>
+  <title>Len Tebe</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry96>
+  <Entry97>
+  <Date>2015-10-18</Date>
+  <Time>09:36:01</Time>
+  <Description>5</Description>
+  <FileName>/Já v ježíše věřím</FileName>
+  <title>Já v ježíše věřím</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry97>
+  <Entry98>
+  <Date>2015-10-18</Date>
+  <Time>09:36:01</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh a Pán je z Judy Lev</FileName>
+  <title>Náš Bůh a Pán je u Judy Lev</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry98>
+  <Entry99>
+  <Date>2015-10-18</Date>
+  <Time>09:54:02</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry99>
+  <Entry100>
+  <Date>2015-10-18</Date>
+  <Time>10:00:00</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry100>
+  <Entry101>
+  <Date>2015-10-18</Date>
+  <Time>10:00:33</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry101>
+  <Entry102>
+  <Date>2015-10-18</Date>
+  <Time>10:15:33</Time>
+  <Description>5</Description>
+  <FileName>/Slávný Boh</FileName>
+  <title>Slávný Boh</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry102>
+  <Entry103>
+  <Date>2015-10-18</Date>
+  <Time>10:15:33</Time>
+  <Description>5</Description>
+  <FileName>/Ježíši jsi spása duše mé</FileName>
+  <title>Ježíši jsi spása duše mé</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry103>
+  <Entry104>
+  <Date>2015-10-18</Date>
+  <Time>10:15:33</Time>
+  <Description>5</Description>
+  <FileName>/Len Tebe</FileName>
+  <title>Len Tebe</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry104>
+  <Entry105>
+  <Date>2015-10-18</Date>
+  <Time>10:15:33</Time>
+  <Description>5</Description>
+  <FileName>/Já v ježíše věřím</FileName>
+  <title>Já v ježíše věřím</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry105>
+  <Entry106>
+  <Date>2015-10-18</Date>
+  <Time>10:15:33</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh a Pán je z Judy Lev</FileName>
+  <title>Náš Bůh a Pán je u Judy Lev</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry106>
+  <Entry107>
+  <Date>2015-10-25</Date>
+  <Time>09:12:43</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>false</HasChords></Entry45></log>
+  <HasChords>false</HasChords></Entry107>
+  <Entry108>
+  <Date>2015-10-25</Date>
+  <Time>09:17:39</Time>
+  <Description>3</Description>
+  <FileName>N</FileName>
+  <title>Náš Bůh a Pán je u Judy Lev</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry108>
+  <Entry109>
+  <Date>2015-10-25</Date>
+  <Time>09:18:55</Time>
+  <Description>5</Description>
+  <FileName>R</FileName>
+  <title>Radost UAW</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry109>
+  <Entry110>
+  <Date>2015-10-25</Date>
+  <Time>09:20:33</Time>
+  <Description>5</Description>
+  <FileName>R</FileName>
+  <title>Radost UAW</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry110>
+  <Entry111>
+  <Date>2015-10-25</Date>
+  <Time>09:21:47</Time>
+  <Description>3</Description>
+  <FileName>C</FileName>
+  <title>Chci jít za Tebou</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry111>
+  <Entry112>
+  <Date>2015-10-25</Date>
+  <Time>09:22:13</Time>
+  <Description>3</Description>
+  <FileName>C</FileName>
+  <title>Chci jít za Tebou</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry112>
+  <Entry113>
+  <Date>2015-10-25</Date>
+  <Time>09:23:12</Time>
+  <Description>3</Description>
+  <FileName>C</FileName>
+  <title>Chci jít za Tebou</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry113>
+  <Entry114>
+  <Date>2015-10-25</Date>
+  <Time>09:23:45</Time>
+  <Description>3</Description>
+  <FileName>C</FileName>
+  <title>Chci ti svoji píseň dát</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry114>
+  <Entry115>
+  <Date>2015-10-25</Date>
+  <Time>09:24:06</Time>
+  <Description>3</Description>
+  <FileName>C</FileName>
+  <title>Chci ti svoji píseň dát</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry115>
+  <Entry116>
+  <Date>2015-10-25</Date>
+  <Time>09:24:50</Time>
+  <Description>3</Description>
+  <FileName>C</FileName>
+  <title>Chválím a uctívám svého Pána</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry116>
+  <Entry117>
+  <Date>2015-10-25</Date>
+  <Time>09:25:08</Time>
+  <Description>2</Description>
+  <FileName>d</FileName>
+  <title>d</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry117>
+  <Entry118>
+  <Date>2015-10-25</Date>
+  <Time>09:25:42</Time>
+  <Description>3</Description>
+  <FileName>D</FileName>
+  <title>Dny Eliáše</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry118>
+  <Entry119>
+  <Date>2015-10-25</Date>
+  <Time>09:26:20</Time>
+  <Description>3</Description>
+  <FileName>D</FileName>
+  <title>Držíš mne</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry119>
+  <Entry120>
+  <Date>2015-10-25</Date>
+  <Time>09:26:26</Time>
+  <Description>3</Description>
+  <FileName>D</FileName>
+  <title>Držíš mne</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry120>
+  <Entry121>
+  <Date>2015-10-25</Date>
+  <Time>09:26:56</Time>
+  <Description>3</Description>
+  <FileName>D</FileName>
+  <title>Držíš mne</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry121>
+  <Entry122>
+  <Date>2015-10-25</Date>
+  <Time>09:27:17</Time>
+  <Description>3</Description>
+  <FileName>D</FileName>
+  <title>Držíš mne</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry122>
+  <Entry123>
+  <Date>2015-10-25</Date>
+  <Time>09:29:57</Time>
+  <Description>3</Description>
+  <FileName>H</FileName>
+  <title>Haleluja vládne mocný Král</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry123>
+  <Entry124>
+  <Date>2015-10-25</Date>
+  <Time>09:59:18</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh je větší</FileName>
+  <title>Náš Bůh je větší</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry124>
+  <Entry125>
+  <Date>2015-10-25</Date>
+  <Time>09:59:18</Time>
+  <Description>5</Description>
+  <FileName>/Alive UAW</FileName>
+  <title>Alive UAW</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry125>
+  <Entry126>
+  <Date>2015-10-25</Date>
+  <Time>09:59:18</Time>
+  <Description>5</Description>
+  <FileName>/Ježíš, Ježíš</FileName>
+  <title>Ježíš vládu má</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry126>
+  <Entry127>
+  <Date>2015-10-25</Date>
+  <Time>09:59:18</Time>
+  <Description>5</Description>
+  <FileName>/Smím stát</FileName>
+  <title>Smím stát</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry127>
+  <Entry128>
+  <Date>2015-10-25</Date>
+  <Time>09:59:18</Time>
+  <Description>5</Description>
+  <FileName>/Haleluja, vládne král</FileName>
+  <title>Haleluja, vládne král</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry128>
+  <Entry129>
+  <Date>2015-10-25</Date>
+  <Time>09:59:18</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh a Pán je z Judy Lev</FileName>
+  <title>Náš Bůh a Pán je u Judy Lev</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry129>
+  <Entry130>
+  <Date>2015-10-25</Date>
+  <Time>12:02:54</Time>
+  <Description>5</Description>
+  <FileName>/Náš Bůh a Pán je z Judy Lev</FileName>
+  <title>Náš Bůh a Pán je u Judy Lev</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry130>
+  <Entry131>
+  <Date>2015-10-25</Date>
+  <Time>12:11:36</Time>
+  <Description>5</Description>
+  <FileName>/Radost UAW</FileName>
+  <title>Radost UAW</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry131></log>

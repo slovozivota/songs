@@ -16,37 +16,37 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics> 
-[V1]
+  <lyrics>[V1]
  Abba Otče, drahý Králi,
- na kolenou se teď skláním.
+ na kolenou se teď skláním
  
 [V2]
  Před Tvou tváří, v srdci oheň,
- silná touha, živý plamen.
- 
+ silná touha, živý plamen
  
 [C1]
- 
  A ty,
- Pane pevně držíš mne,
+ Pane, pevně držíš mne
 [C2]
- jako orel vznesu se,
- sílu mým křídlům dáváš.
+ Jako orel vznesu se,
+ sílu mým křídlům dáváš
  
 [C3]
  Protože ty,
- Pane, pevně držíš mne,
+ Pane, pevně držíš mne
  
 [C4]
- i kdybych upad, zvednu se!
- Nikdy se mě nevzdáš.
+ I kdybych upad, zvednu se!
+ Nikdy se mě nevzdáš
  
  
 [V3]
  Vzývám jméno Immanuel,
- vládce věků, Boží syn.
+ vládce věků, Boží syn
  
 [V4]
  Milující, odpouští mi,
- očistil mne od všech vin.</lyrics></song>
+ očistil mne od všech vin</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

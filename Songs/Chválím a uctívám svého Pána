@@ -21,7 +21,7 @@
   toužím vírou kráčet s Ním
 [V2]
   Vykoupil mě ze strachu a z tísně,
-  vím že s Ním vždycky zvítězím
+  vím, že s Ním vždycky zvítězím
 [P]
   Už nezmění to nic, nepohnu se víc
 [C1]
@@ -29,4 +29,7 @@
   že můžu ve svobodě žít
 [C2]
   Jsi má skrýš moje skála,
-  pevná věž v čase trápení</lyrics></song>
+  pevná věž v čase trápení</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

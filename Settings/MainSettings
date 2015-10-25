@@ -3,7 +3,7 @@
   <ccli id="" password="" number=""/>
   <version songs="0.98" sets="0.96" check="false"/>
   <geometry y="67" x="20" width="1880" height="925"/>
-  <last_scripture per_slide="2" version="CZ_Nbk21" show_numbers="true" book="42" chapter="14" verse="15" thru="24" format="verse" verse_per_slide="1" chars_per_slide="500"/>
+  <last_scripture per_slide="2" version="CZ_Nbk21" show_numbers="true" book="62" chapter="4" verse="1" thru="21" format="verse" verse_per_slide="1" chars_per_slide="500"/>
   <proxy port="0" host=""/>
   <fonts>
   <headings font="Arial" size="11" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
