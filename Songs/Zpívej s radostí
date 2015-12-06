@@ -17,22 +17,25 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[C1]
-  Zpívej s radostí Bůh je tvoje síla,
-  zpívej s radostí vždyť On je pomoc tvá
+  Zpívej s radostí, Bůh je tvoje síla,
+  zpívej s radostí, vždyť On je pomoc tvá
 [C2]
   Tak chval Ho právě teď za všechno co ti dává,
   ve vítězství půjdeš dál
 [P]
   Zpívej, zpívej
 [B1]
-  Když přijde těžká doba
-  tíseň se tě snaží zdolat tak zpívej
+  Když přijde těžká doba,
+  tíseň se tě snaží zdolat, tak zpívej
 [B2]
   Když se ráno probudíš
-  a východisko nevidíš tak zpívej
+  a východisko nevidíš, tak zpívej
 [B3]
-  To změní tvůj den když jsou mraky na nebi
-  a slunce právě nesvítí tak zpívej
+  To změní tvůj den, když jsou mraky na nebi
+  a slunce právě nesvítí, tak zpívej
 [B4]
-  Zpívej svému Bohu On tě slyší
-  On je s tebou jen mu zpívej, On je tvoje síla</lyrics></song>
+  Zpívej svému Bohu, On tě slyší
+  On je s tebou, jen mu zpívej, On je tvoje síla</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

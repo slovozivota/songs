@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Náš Pán</title>
+  <title>Pane smädní sme po Tebe</title>
+  <lyrics>[C]
+ Pane smädní sme po Tebe
+[V1]
+ Nech táto oslava naplní ulice, 
+ Chceme tancovať z lásky ku Tebe
+[V2]
+ A všetko, čo mám, dám na oltár,
+ Svoj život nesiem pred Tvoju tvár.
+
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,15 +24,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Náš Pán, On je kráľov Kráľ
- jeho trón bude naveky stáť
-[V1]
-
- on má všetku vládu a moc
- náš Pán, On je kráľov Kráľ</lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

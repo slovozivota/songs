@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Náš Pán</title>
+  <title>Jahve</title>
+  <lyrics>[V1]
+ Jahve, Jahve, od vekov stále prítomný
+ Nemenný, nádherný, napĺňaš láskou národy.
+[V2]
+ Tvoja je sláva, náš Boh
+ Nech je Tvojmu menu sláva na veky
+[V3]
+ Chceme Ťa chváliť
+ Chceme sa skláňať, 
+ Voláme náš si Pán.
+[V4]
+ S radosťou spievame tomu, čo stvoril nás, 
+ Voláme náš si Pán.
+
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,15 +29,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Náš Pán, On je kráľov Kráľ
- jeho trón bude naveky stáť
-[V1]
-
- on má všetku vládu a moc
- náš Pán, On je kráľov Kráľ</lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

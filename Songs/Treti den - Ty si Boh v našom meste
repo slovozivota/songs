@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Náš Pán</title>
+  <title>Ty si Boh v našom meste</title>
+  <lyrics>[V1]
+ Ty si Boh v našom meste
+ Ty si Boh v našom meste,
+
+[V2]
+ Ty si Pán týchto ľudí
+ Ty si kráľ v našej vlasti, Ty si
+
+[V3]
+ Nie je nik ako Ty, 
+ Nie je nik ako Ty
+
+[V4]
+ Veľké veci povstanú. Veľké veci povstanú v našich mestách
+
+[V5]
+ Božie veci povstanú, Božie veci povstanú v nás.
+
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,15 +33,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Náš Pán, On je kráľov Kráľ
- jeho trón bude naveky stáť
-[V1]
-
- on má všetku vládu a moc
- náš Pán, On je kráľov Kráľ</lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

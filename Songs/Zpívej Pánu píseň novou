@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Zpívej Pánu píseń novou</title>
+  <title>Zpívej Pánu píseň novou</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -34,4 +34,7 @@
  On je Pán nejvyšší, On je hoden veškeré slávy
 [B2]
  On je Pán nejvyšší, On je hoden všech našich chval
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

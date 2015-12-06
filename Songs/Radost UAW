@@ -24,21 +24,24 @@
  V srdci jsem zlomený, to, co chci mít,
  není jen zvítězit, s Tebou chci být
  
-[V3]
+[B]
  K tobě jdu s důvěrou, Ty o mně víš,
  pro radost před sebou jsi podstoupil kříž
  
-[V4]
+[B2]
  Život jsi připravil, s Tebou chci jít,
  nechci jen přežívat, ale chci žít
  
-[B]
+[P]
  Tvoje slovo zůstává, Ty jsi Král
  
-[B2]
+[P2]
  Tvoje vláda nastává, nade vším vládu máš
  
 [C]
  Tebe chválím, tančím radostí,
  Ty mi dáváš tolik chuti žít
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

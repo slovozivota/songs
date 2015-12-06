@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Náš Pán</title>
+  <title>Nikto nie je vačší než ty</title>
+  <lyrics>[V1]
+ Nikto mi nemôže dať, to čo mi dávaš Ty
+ Nikto mi nemôže vziať, čo v Tebe mám
+[V2]
+ Nikto nie je väčší , než Ty, všetko sap red Tebou skláňa.
+[V3]
+ Každý jazyk vyzná, že Ty si väčší, než vesmír celý.
+[V4]
+ Poznávam každý deň, že krajší je, keď Ti ho do rúk odovzdám.
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,15 +24,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[C]
- Náš Pán, On je kráľov Kráľ
- jeho trón bude naveky stáť
-[V1]
-
- on má všetku vládu a moc
- náš Pán, On je kráľov Kráľ</lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
