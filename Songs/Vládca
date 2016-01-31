@@ -17,34 +17,41 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Každý z nás dúfa v súcit a bezhraničnú lásku
- Óóó, Pane, zmiluj sa
+ Každý z nás dúfa v súcit
+ a bezhraničnú lásku
+
 [V2]
+ Óóó, Pane, zmiluj sa
+
+[V3]
  Každý z nás túži prijímať milosť odpustenia 
  A nádej spásy
  
-[V3] 
+[V4] 
  Vládca, vrchmi môže hýbať 
  Môj Boh je najmocnejší
-[V4]
+[V5]
  Má moc zachrániť nás
  Víťaz, pôvod večnej spásy
-[V5]
+[V6]
  Porazil smrť, z hrobu vstal
  Ježiš víťazne vstal
  
-[V6]
+[V7]
  Biedny som, Ty ma prijímaš
  Všetok môj strach a pády
-[V7]
+[V8]
  Óóó, Kriste, zmiluj sa
  Za Tebou túžim kráčať
-[V8]
+[V9]
  Si moja pevná nádej
  Dnes sa Ti dávam
-[V9]
+[V10]
  Zažiar svetlom, nech Ťa svet vidí
  Spievaj, Tebe sláva, Kráľ môj víťazný
-[V10]
+[V11]
  Ježiš
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -17,26 +17,29 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Len tvoja láska, z prachu nás dvíha
- Do tvojej slávy z temnoty dní
+ Len tvoja láska z prachu nás dvíha,
+ do tvojej slávy z temnoty dní
 [V2]
- Bremená lámeš, v trápení síl dáš
- Uzdravuj nás
+ Bremená lámeš,
+ v trápení síl dáš, uzdravuj nás
  
 [C]
- Tebe môj Boh dvíham svoj hlas
+ Tebe môj Boh dvíham svoj hlas,
  Tebe môj Boh vzdávam chválu
 [C2]
- Tebe môj Boh dvíham svoj hlas
+ Tebe môj Boh dvíham svoj hlas,
  spievam aleluja
  
 [V3]
  Putá si zlámal, oči otváraš,  
- Armáda Kráľa dnes začína rásť
+ armáda Kráľa dnes začína rásť
 [V4]
- Smrť viac nemá moc, víťazsvo nám dal 
- náš živý Pán
+ Smrť viac nemá moc,
+ víťazsvo nám dal náš živý Pán
  
 [B]
- Chválou znie Svätý, Svätý, Svätý
- Tvoj meno znie Svätý, Svätý, Svätý</lyrics></song>
+ Chválou znie Svätý, Svätý, Svätý,
+ Tvoj meno znie Svätý, Svätý, Svätý</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

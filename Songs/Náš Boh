@@ -31,7 +31,7 @@
  
 [C]
  Náš Boh je väčší, On je silnejší
- Pane, si viac než čo tento svet dáva
+ Pane, si viac, než čo tento svet dáva
 [C2]
  Rany nám liečiš, mocný a slávny
  Náš Boh, si náš Pán
@@ -39,4 +39,7 @@
 [B]
  Veď keď náš Boh je za nás, nemôže vládnúť strach
 [B2]
- Veď keď náš Boh je s nami, kto môže stáť proti nám</lyrics></song>
+ Veď keď náš Boh je s nami, kto môže stáť proti nám</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -16,14 +16,13 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics> 
-[V1]
+  <lyrics>[V1]
  Když už svět neměl co dát
- a já to chtěl vzdát, 
+ a já to chtěl vzdát,
+
 [V2]
- 
  Tys přišel jak král,
- do rukous´ mě vzal.
+ do rukous' mě vzal.
 [V3]
  
  Tvá milost je víc,
@@ -33,10 +32,8 @@
 [V4]
  Tak svým životem naplním Tvůj sen.
  Toužím říci všem, že jsi tu každý den. 
- 
- 
+
 [C]
- 
  Tvoje láska, ona uzdraví a vysvobodí.
  Tvoje náruč je to, kde chci být a neodejít.
 [C2]
@@ -60,4 +57,7 @@
 [C6]
  
  Tak svým životem naplním Tvůj sen.
- Toužím říci všem, že jsi tu každý den. </lyrics></song>
+ Toužím říci všem, že jsi tu každý den. </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

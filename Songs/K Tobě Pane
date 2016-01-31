@@ -26,8 +26,8 @@
  Pouta jsi zlámal, oči otvíráš,
  armáda Krále dnes povstává
 [V4]
- Smrt už nemá moc, vítězství nám dal
- náš živý Pán
+ Smrt už nemá moc,
+ vítězství nám dal náš živý Pán
 [P1]
  K Tobě, Pane, zvedám svůj hlas
  Tobě, Pane, vzdávám chválu
@@ -40,4 +40,7 @@
 [B1]
  Tvoje jméno je Svatý, Svatý, Svatý
 [B2]
- Chválou zní Svatý, Svatý, Svatý</lyrics></song>
+ Chválou zní Svatý, Svatý, Svatý</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -17,17 +17,28 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Pred tebou moj Pán sa vzdám,
- pred Tebou na kolena padám.
+  Pred tebou moj Pán sa vzdám,
+  pred Tebou na kolena padám.
  
 [V2] 
- Pred Tebou moj Pán a Král, 
- pred Tebou na tvári vzynávam.
- 
+  Pred Tebou moj Pán a Král, 
+  pred Tebou na tvári vzynávam.
+
 [V3]
- Iného vyššieho na nebi niet
- pre mna si vydobil tisícky liet. 
+  Iba Ty vládneš svojou silou
+  v prievode víťaznom vodíš si ma.
+
+[V4]
+  za tebou pojdem, svetlom i tmou
+  veď Ty jsi moj Pán, hoden si chval.
  
-[V4] 
- Za mna si zaplatil krvou svojou
- úžasný Pán, hoden si chvál.</lyrics></song>
+[V5]
+  Iného bližšieho na nebi niet,
+  On pre mna vydobil tisícky liet. 
+ 
+[V6]
+  V Otcovom náruči, tam ma ukrývá,
+  veď On je moj Pán, hoden je chval.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

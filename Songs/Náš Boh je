@@ -17,32 +17,36 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Vodu na víno meníš
- otváraš oči slepým
+ Vodu na víno meníš,
+ otváraš oči slepým,
  nikto nie je ako Ty
 [V2]
- Zasvietiš v tmách životom
- z prachu nás dvíhaš slovom
+ Zasvietiš v tmách životom,
+ z prachu nás dvíhaš slovom,
  nikto nie je ako Ty
  
 [C1]
  Náš Boh je väčší,
  On je silnejší
 [C2]
- Pane, si viac než čo tento svet dáva
- rany nám liečiš
-[C3] 
- mocný a slávny
+ Pane, si viac,
+ než čo tento svet dáva
+
+[C3]
+ Rany nám liečiš, mocný a slávny,
  náš Boh, si náš Pán 
  
 [P1]
- Zasvietiš v tmách životom
- z prachu nás dvíhaš slovom
+ Zasvietiš v tmách životom,
+ z prachu nás dvíhaš slovom,
  nikto nie je ako Ty
  
 [B1]
- Veď keď náš Boh je za nás
+ Veď keď náš Boh je za nás,
  nemôže vládnuť strach
 [B2]
- keď náš Boh je s nami
- kto môže stáť proti nám?</lyrics></song>
+ Veď keď náš Boh je s nami,
+ kto môže stáť proti nám?</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

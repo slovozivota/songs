@@ -18,10 +18,10 @@
   <time_sig></time_sig>
   <lyrics>[V1] 
  Slúžiaci Kráľ, 
- Na Kríži umrieť šiel
+ Na kríži umrieť šiel
  
 [V2]
- Za náš hriech, on sám trpel
+ Za náš hriech, On sám trpel
  Vydýchol a dal život za nás
  
 [V3]
@@ -44,14 +44,14 @@
  
 [C]
  No v tretí deň hrob sa otvára
- A Ježiš Kráľ, zmŕtvych vstáva
+ A Ježiš, Kráľ, zmŕtvych vstáva
  
 [C2]
  Strach odchádza, smrť silu stráca
  On zvíťazil nám nový život dal
  
 [B]
- Nad každý strach ktorý vládol, 
+ Nad každý strach, ktorý vládol, 
  Nad každou hanbou a pádom
  
 [B2]
@@ -67,7 +67,7 @@
  Víťazne nad všetkým vládne!
  
 [V10]
- S ním môžem snívam odvážne
+ S ním môžem snívať odvážne
  S ním každe úskalie zvládnem
  
 [V11]
@@ -75,4 +75,7 @@
  Víťazne  nad všetkým vládne!
  
  
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

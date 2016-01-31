@@ -17,24 +17,27 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Ty dávaš mi nádej
- Si ten, ktorý vládne
+ Ty dávaš mi nádej,
+ si ten, ktorý vládne
 [V2]
  Si vznešený Kráľ
 [V3]
- Teba ctím, óóó
+ Teba ctím
 [V4]
- Veď Ty si štítom každému
- Kto sa ku tebe utieka
+ Veď Ty si štítom každému,
+ kto sa ku tebe utieka
 [V5]
- Ty dávaš silu slabému
- Keď sa na teba spolieha
+ Ty dávaš silu slabému,
+ keď sa na teba spolieha
 [V6]
- Teba ctím, óóó
+ Teba ctím
 [V7]
- Ja s radosťou spievam
- Moja pevnosť je On
+ Ja s radosťou spievam,
+ moja pevnosť je On
 [V8]
- On je mojím štítom
- V Ňom slobodný som
- </lyrics></song>
+ On je mojím štítom,
+ v Ňom slobodný som
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

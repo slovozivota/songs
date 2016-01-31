@@ -37,11 +37,11 @@
  noc se mění v den
  
  
-[V5]
+[P1]
  Má čas v rukou svých,
  Je Pánem nad smrtí
  První – poslední, první – poslední
-[V6]
+[P2]
  Duch Svatý, Otec, Syn,
  Jen On je Pánem mým
  Je Lvem i Beránkem, Lvem i Beránkem
@@ -49,4 +49,7 @@
 [B]
  Jméno krásné máš,
  V mé chvále přebýváš,
- Jak nádherný jsi Bůh, náš Pán</lyrics></song>
+ Jak nádherný jsi Bůh, náš Pán</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

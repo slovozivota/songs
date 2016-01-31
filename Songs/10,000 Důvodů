@@ -22,8 +22,8 @@
  uctívá jméno Tvé
  
 [C2]
- Ze vší síly zpívá,
- duše má, uctívá jméno Tvé
+ Ze vší síly zpívá duše má,
+ uctívá jméno Tvé
  
 [V1]
  Slunce vychází, nový den začíná, 
@@ -49,4 +49,7 @@
  tisíce let Tě chválit napořád
  
 [B]
- Uctívá jméno Tvé</lyrics></song>
+ Uctívá jméno Tvé</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

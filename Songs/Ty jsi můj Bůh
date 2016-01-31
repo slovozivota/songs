@@ -31,8 +31,10 @@
  Navěky Tě budu chválit,
  v každém čase, Pane můj
  
-[P1]
+[P]
  Ty jsi můj Bůh, Ty jsi můj Bůh 
-[P2]
  Pane a Králi, vyvýšený nade vším 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

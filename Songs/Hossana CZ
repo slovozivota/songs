@@ -16,11 +16,9 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics> 
- 
-[V1]
+  <lyrics>[V1]
  Hle vidím krále slávy, jak k nám v ohni přichází
- 
+
 [V2]
  země se zachvívá
  
@@ -54,4 +52,7 @@
  Ať me trápí věci Tvé, dokud království Tvé nepříjde
  
 [B4]
- Než odejdu ze světa – do věčnosti</lyrics></song>
+ Než odejdu ze světa – do věčnosti</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
