@@ -20,16 +20,19 @@
  K Tobě, Králi, přicházím, 
  v Tobě sílu nacházím
 [V2]
- v Tobě noc se mění v den,
+ V Tobě noc se mění v den,
  v srdci mém buď vyvýšen
 [V3]
- Temnota se vytrácí.
+ Temnota se vytrácí,
  V tobě vyznávám:
- jsem svobodný
+ Jsem svobodný
  
 [C]
  Svobodný v lásce Tvé
  Svobodný v přízni Tvé
 [C2]
  Svobodný jen pro Tebe žít
- Svobodný</lyrics></song>
+ Svobodný</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
