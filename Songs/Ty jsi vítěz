@@ -16,21 +16,37 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics> 
- 
-[C]
- Ty jsi vítez, Ty jsi vítěz
- zlomil´s hřích mocí kříže
- Ježíš Kristus, slavně vzkříšen, pánů Pán a králů Král
+  <lyrics>[C]
+ Ty jsi vítěz, Ty jsi vítěz,
+ zlomils hřích mocí kříže
+
+[C2]
+ Ježíš Kristus slavně vzkříšen,
+ pánů Pán a králů Král
  
 [V1]
- Když v temnotách mě poutal hřích, láska Tvá mě našla v nich
- Na kříži mnou jsi hanbu smyl, nad smrtí jsi zvítězil
- 
+ Když v temnotách mě poutal hřích,
+ láska Tvá mě našla v nich
+
 [V2]
- Už nejdu sám přes výheň dní, v srdci mém Tvá píseň zní
- Naděje má vždy zůstává, když Ježíš Kristus ve mě přebývá
+ Na kříži mou jsi hanbu smyl,
+ nad smrtí jsi zvítězil
  
 [V3]
- Ty jenž záříš nocí, tmou, jsi poklad můj, jsi písní mou
- Buď nadějí, mou skrýší, veď mě k sobě domů Ježíši</lyrics></song>
+ Už nejdu sám přes výheň dní,
+ v srdci mém Tvá píseň zní
+
+[V4]
+ Naděje má vždy zůstává,
+ když Ježíš Kristus ve mě přebývá
+ 
+[V5]
+ Ty, jenž záříš nocí, tmou,
+ jsi poklad můj, jsi písní mou
+
+[V6]
+ Buď nadějí, mou skrýší,
+ veď mě k sobě domů, Ježíši</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
