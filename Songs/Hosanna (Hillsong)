@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Hossana CZ</title>
+  <title>Hosanna (Hillsong)</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -17,42 +17,46 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Hle vidím krále slávy, jak k nám v ohni přichází
+ Hle vidím krále slávy,
+ jak k nám v ohni přichází
 
 [V2]
- země se zachvívá
- 
+ Země se zachvívá
+
 [V3]
- Hle jeho sláva velká, naše hříchy obmývá
+ Hle jeho sláva velká
+ naše hříchy obmývá
+
 [V4]
  Ať Tvůj lid zazpívá
  
 [C]
- Hossana, Hossana, buď sláva Nejvyššímu
+ Hosanna, Hosanna, buď sláva Nejvyššímu
  
 [V5]
- Hle, Pane, povstáváme, zabíráme ve víře
+ Hle, Pane, povstáváme,
+ zabíráme ve víře, co jsi nám zaslíbil
+ 
  
 [V6]
- Co jsi nám zaslíbil
+ Hle, když Tvou tvář hledáme,
+ když jsme na kolenou svých
  
 [V7]
- Hle, když Tvou tvář hledáme, když jsme na kolenou svých
- 
-[V8]
  Vím, že nás probudíš
  
 [B]
  Uzdrav, Pane, srdce mé, ať můžu uvidět nevídané
  
 [B2]
- Nauč mě milovat víc – Tvou láskou
+ Nauč mě milovat víc Tvou láskou
  
 [B3]
- Ať me trápí věci Tvé, dokud království Tvé nepříjde
+ Ať me trápí věci Tvé,
+ dokud království Tvé nepříjde
  
 [B4]
- Než odejdu ze světa – do věčnosti</lyrics>
+ Než odejdu ze světa do věčnosti</lyrics>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

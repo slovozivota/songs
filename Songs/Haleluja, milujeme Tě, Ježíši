@@ -18,23 +18,35 @@
   <time_sig></time_sig>
   <lyrics> 
 [C1]
- Haleluja, milujeme Tě, Ježíši, haleluja, uctíváme Tě, Králi
+ Haleluja, milujeme Tě, Ježíši,
+ haleluja, uctíváme Tě, Králi
 [C2]
- Haleluja, chválíme Tvé jméno, Ty jsi nádherný
+ Haleluja, chválíme Tvé jméno,
+ Ty jsi nádherný
  
 [V1]
- Ty jsi Bůh, Tebe uctívám
+ Ty jsi Bůh,
+ Tebe uctívám
 [V2]
- Ty jsi Bůh, Tobě píseň lásky zpívat toužím
+ Ty jsi Bůh,
+ Tobě píseň lásky zpívat toužím
  
 [V3]
- Vše, co mám, Tobě toužím dát
+ Vše, co mám,
+ Tobě toužím dát
+
 [V4]
  Život můj jen Tobě náleží
  
 [B]
- Vše, co dýchá, bude chválit jméno Tvé
+ Vše, co dýchá,
+ bude chválit jméno Tvé
 [B2]
- Vše, co dýchá, poklekne před trůnem slávy
+ Vše, co dýchá,
+ poklekne před trůnem slávy
 [B3]
- Vším, co máme, budeme Tě chválit, budem tančit v přítomnosti Tvé</lyrics></song>
+ Vším, co máme, budeme Tě chválit,
+ budem tančit v přítomnosti Tvé</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
